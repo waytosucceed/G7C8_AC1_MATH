@@ -1,0 +1,62 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Add the fractions <sup>3</sup>&frasl;<sub>8</sub> and <sup>2</sup>&frasl;<sub>8</sub>. What is the result?",
+        "options": [
+            "<sup>5</sup>&frasl;<sub>8</sub>",
+            "<sup>1</sup>&frasl;<sub>8</sub>",
+            "<sup>1</sup>&frasl;<sub>4</sub>",
+            "<sup>3</sup>&frasl;<sub>8</sub>"
+        ],
+        "correct": 0,
+        "explanation": "To find the result, we need to add the fractions. Given fractions: 3/8 and 2/8. Since the denominators are the same (both are 8), we can add the numerators directly: 3 + 2 = 5. Therefore, the answer is 5/8."
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Reduce the fraction <sup>4</sup>&frasl;<sub>8</sub> to its lowest form. What is the result?",
+        "options": [
+            "<sup>2</sup>&frasl;<sub>8</sub>",
+            "<sup>2</sup>&frasl;<sub>2</sub>",
+            "<sup>1</sup>&frasl;<sub>2</sub>",
+            "<sup>1</sup>&frasl;<sub>4</sub>"
+        ],
+        "correct": 2,
+        "explanation": "The factors of 4 are 1, 2, 4 and the factors of 8 are 1, 2, 4, 8. The Greatest Common Factor (GCF) is 4. Divide both the numerator and denominator by the GCF: 4 ÷ 4 = 1, 8 ÷ 4 = 2. Therefore, the simplified fraction is 1/2."
+    },
+    {
+        "questionNo": "Q3",
+        "question": "What will be the result of subtracting the fraction <sup>3</sup>&frasl;<sub>7</sub> from <sup>6</sup>&frasl;<sub>7</sub>?",
+        "options": [
+            "<sup>2</sup>&frasl;<sub>7</sub>",
+            "<sup>3</sup>&frasl;<sub>7</sub>",
+            "<sup>1</sup>&frasl;<sub>7</sub>",
+            "<sup>9</sup>&frasl;<sub>7</sub>"
+        ],
+        "correct": 2,
+        "explanation": "To find the result, we need to subtract the fractions. Given fractions: 6/7 and 3/7. Since the denominators are the same (both are 7), we can subtract the numerators directly: 6 - 3 = 3. Therefore, the answer is 3/7."
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Add the fractions <math><mfrac bevelled='true'><mfrac><msup><mi>86</mi></msup></mfrac><mfrac><msup><mi>98</mi></msup></mfrac></mfrac></math> and <math><mfrac bevelled='true'><mfrac><msup><mi>12</mi></msup></mfrac><mfrac><msup><mi>98</mi></msup></mfrac></mfrac></math>. What is the result?",
+        "options": [
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>97</mi></msup></mfrac><mfrac><msup><mi>98</mi></msup></mfrac></mfrac></math>",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>99</mi></msup></mfrac><mfrac><msup><mi>98</mi></msup></mfrac></mfrac></math>",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>74</mi></msup></mfrac><mfrac><msup><mi>98</mi></msup></mfrac></mfrac></math>",
+            "<math><mfrac bevelled='true'><mfrac><msup><mi>98</mi></msup></mfrac><mfrac><msup><mi>98</mi></msup></mfrac></mfrac></math>"
+        ],
+        "correct": 3,
+        "explanation": "To find the result, we need to add the fractions. Given fractions: 86/98 and 12/98. Since the denominators are the same (both are 98), we can add the numerators directly: 86 + 12 = 98. Therefore, the answer is 98/98."
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Simplify the fraction <math><mfrac bevelled='true'><mfrac><msup><mi>9</mi></msup></mfrac><mfrac><msup><mi>15</mi></msup></mfrac></mfrac></math> to its lowest form?",
+        "options": [
+            "<sup>3</sup>&frasl;<sub>5</sub>",
+            "<sup>2</sup>&frasl;<sub>3</sub>",
+            "<sup>5</sup>&frasl;<sub>3</sub>",
+            "<sup>1</sup>&frasl;<sub>3</sub>"
+        ],
+        "correct": 0,
+        "explanation": "Both 9 and 15 are divisible by 3. Dividing the numerator and denominator by 3: 9 ÷ 3 = 3, 15 ÷ 3 = 5. Therefore, the simplified fraction is 3/5."
+    }
+]
